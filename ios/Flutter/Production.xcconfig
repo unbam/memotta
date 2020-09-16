@@ -1,0 +1,4 @@
+FLUTTER_FLAVOR=Production
+DISPLAY_NAME=memotta
+FLUTTER_TARGET=lib/main_production.dart
+
